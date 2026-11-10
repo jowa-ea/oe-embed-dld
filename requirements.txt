@@ -1,0 +1,8 @@
+# Python 3.13 (tested). Install with: pip install -r requirements.txt
+# Versions are those of the `geospatial` conda env this was tested in.
+requests==2.32.3
+numpy==2.4.6
+pandas==2.2.3
+pyarrow==25.0.1
+pyproj==3.7.2
+duckdb==1.5.5

@@ -1,0 +1,11 @@
+helper_scripts/
+.claude/
+.scratch/
+.venv/
+__pycache__/
+*.pyc
+
+# Extraction outputs (re-create with src/02 and src/03; copy results back with
+# scp or `git add -f`)
+data/embeddings/
+data/eba/
